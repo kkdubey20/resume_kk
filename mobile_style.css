@@ -1,0 +1,252 @@
+/* html {
+    scroll-behavior: smooth;
+  } */
+
+  body{
+    background-color: #eaf6f6;
+    margin: 0;
+    line-height:1.2;
+    /* background-image: back.jpg ; */
+}
+
+div{
+    margin: 0;
+}
+
+
+
+hr{
+    border-style: hidden;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 0.4em;
+    
+    width: 5%;
+}
+
+h1, h2{
+    font-family: 'Dancing Script', cursive;
+    color: #08d9d6;
+}
+
+h2{
+    color: #08d9d6;
+}
+
+a{
+
+    text-decoration: none;
+    color: #54e346;
+}
+
+a:visited{
+   color: #ec5858;
+}
+
+a:hover{
+    color: #fdb827;
+}
+
+/*             class Selector */
+
+/* 
+.Skills{
+    color: #d99008;
+} */
+
+.comp{
+    text-align: center;
+    /* position: relative; */
+    margin-top: 0;
+    /* left: 10%; */
+}
+
+
+.mac{
+    width: 100%;
+    height: max-content;
+    /* width: fit-content; */
+    
+}
+
+.Namaste{
+    position: absolute;
+    bottom: 70%;
+    left: 40%;
+    font-family: 'Rozha One', serif;
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 3.3em;
+    color: #fc8621;
+    margin: 0;
+    
+}
+
+.Intro{
+    /* position: relative; */
+    text-align: center;
+    /* left: 30%; */
+}
+
+
+.Education{
+    position: absolute;
+    width: 100%;
+    
+
+    /* margin-bottom: 2em; */
+
+    text-align: center;
+
+}
+
+.experience{
+    position: absolute;
+    /* top: 2000px; */
+    left: 500px;
+    right: 500px;
+    /* background-color: #f3f2da; */
+}
+
+.exp_back{
+    position: absolute;
+    top: 2000px;
+    height: 530px;
+    width: 100%;
+    background-color: #f3f2da;
+}
+
+.skills{
+    position: absolute;
+    top: 2630px;
+    left: 400px;
+    right: 400px;
+}
+
+.edu_title, .exp_title, .coding_title{
+    text-align: center;
+}
+
+.skill_title{
+    position: absolute;
+    top: 2550px;
+    /* bottom: 130px; */
+    left: 820px;
+    right: 600px;
+}
+
+
+
+.edu_img{
+    border-radius: 100%;
+    width: 8%;
+    
+}
+
+.exp_img{
+    width:25%;
+}
+
+.iiita_img, .school_img{
+    border-radius: 100%;
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-right: 100px;
+    /* margin-bottom: 50px; */
+}
+
+.skill_img{
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+}
+
+.TA_img{
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-right: 100px;
+}
+
+.Inter, .Prayaas_title{
+    float: left;
+    margin-right: 70px;
+}
+
+
+.clg_img, .Prayaas_img{
+    border-radius: 100%;
+    width: 100px;
+    height: 80px;
+    /* float: right; */
+    /* margin-left: 0; */
+    /* margin-bottom: 50px; */
+}
+
+.Prayaas{
+    color: #fd8c04;
+}
+
+.blue{
+    color: blue;
+}
+
+.coding{
+    position: absolute;
+    left: 700px;
+    right: 700px;
+}
+
+.coding_back{
+    position: absolute;
+    top: 2800px;
+    height: 730px;
+    width: 100%;
+    background-color: #ffd5cd;
+}
+
+.coding_img{
+    width: 60%;
+}
+
+
+.achieve_back{
+    position: absolute;
+    top: 3530px;
+    height: 300px;
+    width: 100%;
+    background-color: #c62a88;
+}
+
+.achieve{
+    position: absolute;
+    left: 500px;
+    right: 500px;
+}
+
+.achieve_img{
+    width: 20%;
+    border-radius: 70%;
+    float: left;
+    margin-right: 20px;
+}
+
+.achieve_title{
+    position: absolute;
+    /* top: 3530px; */
+    /* bottom: 130px; */
+    left: 300px;
+    /* right: 600px; */
+} 
+
+
+
+
+/*              id selector */
+
+#my_photo{
+    border-radius: 100%;
+}
