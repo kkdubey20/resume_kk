@@ -1,12 +1,7 @@
-/* html {
-    scroll-behavior: smooth;
-  } */
-
-  body{
+body{
     background-color: #eaf6f6;
     margin: 0;
     line-height:1.2;
-    /* background-image: back.jpg ; */
 }
 
 div{
@@ -47,32 +42,22 @@ a:hover{
     color: #fdb827;
 }
 
-/*             class Selector */
-
-/* 
-.Skills{
-    color: #d99008;
-} */
-
 .comp{
     text-align: center;
-    /* position: relative; */
     margin-top: 0;
-    /* left: 10%; */
 }
 
 
 .mac{
     width: 100%;
     height: max-content;
-    /* width: fit-content; */
     
 }
 
 .Namaste{
     position: absolute;
     bottom: 70%;
-    left: 40%;
+    left: 50%;
     font-family: 'Rozha One', serif;
     /* font-family: 'Dancing Script', cursive; */
     font-size: 3.3em;
@@ -82,19 +67,13 @@ a:hover{
 }
 
 .Intro{
-    /* position: relative; */
     text-align: center;
-    /* left: 30%; */
 }
 
 
 .Education{
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
-    
-
-    /* margin-bottom: 2em; */
-
     text-align: center;
 
 }
