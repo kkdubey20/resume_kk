@@ -24,7 +24,7 @@ a {
 }
 
 a:visited {
-  color: #ec5858;
+  color: #5867ec;
 }
 
 a:hover {
@@ -32,12 +32,13 @@ a:hover {
 }
 
 
-.iiita_img, .school_img{
-    border-radius: 100%;
-    width: 100px;
-    height: 80px;
-    float: left;
-    margin-right: 100px;
+.iiita_img{
+    /* border-radius: 100%; */
+    /* width: 25rem; */
+    text-align: center;
+    height: 10rem;
+    /* float: left; */
+    /* margin-right: 100px; */
     /* margin-bottom: 50px; */
 }
 
@@ -80,7 +81,7 @@ a:hover {
 
 .edu_img{
     border-radius: 100%;
-    width: 25%;
+    width: 10%;
     
 }
 
