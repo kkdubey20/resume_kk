@@ -1,0 +1,89 @@
+body {
+  background-color: #eaf6f6;
+  margin: 0;
+}
+
+.Namaste {
+  font-family: "Rozha One", serif;
+  margin: 0;
+}
+
+#my_photo {
+  border-radius: 100%;
+}
+
+h1,
+h2 {
+  font-family: "Dancing Script", cursive;
+  color: #08d9d6;
+}
+
+a {
+  text-decoration: none;
+  color: #54e346;
+}
+
+a:visited {
+  color: #ec5858;
+}
+
+a:hover {
+  color: #fdb827;
+}
+
+
+.iiita_img, .school_img{
+    border-radius: 100%;
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-right: 100px;
+    /* margin-bottom: 50px; */
+}
+
+.skill_img{
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+}
+
+.TA_img{
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-right: 100px;
+}
+
+.clg_img, .Prayaas_img{
+    border-radius: 100%;
+    width: 100px;
+    height: 80px;
+    /* float: right; */
+    /* margin-left: 0; */
+    /* margin-bottom: 50px; */
+}
+
+
+.coding_img{
+    width: 60%;
+}
+
+.achieve_img{
+    width: 20%;
+    border-radius: 70%;
+    float: left;
+    margin-right: 20px;
+}
+
+.edu_img{
+    border-radius: 100%;
+    width: 25%;
+    
+}
+
+.exp_img{
+    width:25%;
+}
