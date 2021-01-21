@@ -42,6 +42,12 @@ a:hover {
     /* margin-bottom: 50px; */
 }
 
+.back-code{
+  background-color:#ffd369;
+}
+
+
+/* 
 .skill_img{
     border-radius: 100%;
     width: 80px;
@@ -62,29 +68,8 @@ a:hover {
     border-radius: 100%;
     width: 100px;
     height: 80px;
-    /* float: right; */
-    /* margin-left: 0; */
-    /* margin-bottom: 50px; */
-}
-
-
-.coding_img{
-    width: 60%;
-}
-
-.achieve_img{
-    width: 20%;
-    border-radius: 70%;
-    float: left;
-    margin-right: 20px;
-}
-
-.edu_img{
-    border-radius: 100%;
-    width: 10%;
     
-}
+} */
 
-.exp_img{
-    width:25%;
-}
+
+
